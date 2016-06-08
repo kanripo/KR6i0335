@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:44.111030
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 佛說楞伽經禪門悉談章
 #+PROPERTY: CBETA_ID T85n2779
 #+PROPERTY: ID KR6i0335
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2779
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0335_T_001-0536a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2779¶
-
- 佛說楞伽經禪門悉談章(并序)¶
+No. 2779¶
+佛說楞伽經禪門悉談章(并序)¶
 ¶
 
 諸佛子等合掌至心聽。我今欲說大乘楞伽¶
