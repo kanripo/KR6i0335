@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:44.111030
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 佛說楞伽經禪門悉談章
 #+PROPERTY: CBETA_ID T85n2779
 #+PROPERTY: ID KR6i0335
